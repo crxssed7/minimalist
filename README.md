@@ -1,10 +1,20 @@
 # The Minimalist theme
 
-*Minimalist is a Jekyll theme, inspired by the [Minimalist](https://github.com/BDHU/minimalist) theme. You can [preview the theme to see what it looks like](http://bdhu.github.io/minimalist), or even [use it today](#usage).*
+*Minimalist is a Jekyll theme, inspired by the [Minimal](https://github.com/pages-themes/minimal) theme from GitHub. You can [preview the theme to see what it looks like](http://bdhu.github.io/minimalist), or even [use it today](#usage).*
 
 ![Demo of Minimalist](https://raw.githubusercontent.com/BDHU/minimalist/main/minimalist.png)
 
 ## Usage
+
+### Docker
+
+The simplest way is to use a Docker container. For Docker installation instructions, please refer to the offical Docker [docs](https://docs.docker.com/engine/install/). After successful installation, simply execute:
+
+```bash
+./deploy.sh
+```
+
+### Other Methods
 
 To use the Minimalist theme:
 
